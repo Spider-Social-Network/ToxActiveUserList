@@ -15,5 +15,5 @@ One line represents a user;
 ```
 
 ## Rules
-   -Please always keep it simple. Thank you
-   -Please make sure you have ownership of the added ToxId and don't cause trouble to others;
+- Please always keep it simple. Thank you
+- Please make sure you have ownership of the added ToxId and don't cause trouble to others;
