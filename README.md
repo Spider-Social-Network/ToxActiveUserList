@@ -3,6 +3,14 @@ English | [简体中文](./README.zh-CN.md)
 # Tox active user list
 If you want to find more friends on the Tox network, then leave your ToxID and say something to your future friends!
 
+## File naming rules
+Take TAUL_V1_General_1.yaml as an example:
+- TAUL: fixed prefix, acronym for Tox Active User List
+- _: Underscore, separator
+- V1: content format version number, reserved for extension
+- General: subject or category
+- 1: Decimal numbering to prevent a single file from being too large
+
 ## Format description
 The format of this list is very simple! Using YAML format, the field has only one ToxIDs, and the description uses comments because it is optional;
 One line represents a user;
